@@ -6,3 +6,5 @@ Notes, video, audio, interviews, and reports are stored in ZERO's memory to crea
 ZERO allows you to see your own death and provides pilots and mission operators a way to escape their fate and win wars. This intel is delivered in a way that breaks false realities and can cause feelings of adrenaline during combat.
 
 ZERO uses opaque or transparent layers or "blinders" over certain maps to focus on enemies and cut out certain distractions. In populated civilian areas, this stops collateral damage, stops the target quicker, and eliminates and emotional shock from dealing with urban combat.
+
+"When I was a little girl, I used to believe that if I could please the gods well enough, they would go back and do my life over, and this time they would not take my mother away from me." -Rescued Girl, the night ZERO was created.
